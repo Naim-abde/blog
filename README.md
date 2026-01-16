@@ -33,4 +33,29 @@
 ## Installation
 
 1. Cloner le dépôt :  
+2. Installer les dépendances via Composer :  
+5. Migrer la base de données :  
+
+## Usage
+
+- Créez un compte utilisateur ou connectez-vous  
+- Créez, modifiez ou supprimez vos articles  
+- Commentez et likez les publications  
+- Les administrateurs peuvent gérer tous les utilisateurs, articles et commentaires depuis le tableau de bord  
+
+## Screenshot
+
+<p align="center">
+  ![Insert your screenshot here](#)
+</p>
+
+## Author
+
+**Abdessamad Naim**  
+- GitHub: [https://github.com/Naim-abde](https://github.com/Naim-abde)  
+- Portfolio: [https://abdenaim.vercel.app](https://abdenaim.vercel.app)  
+
+## License
+
+Ce projet est sous licence **MIT**.
 
